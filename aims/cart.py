@@ -24,8 +24,9 @@ class Cart:
         return False
 
     def total_cost(self):
-        return sum(item.cost for item in self.items)
-        def print_cart(self):
+        return sum(item.cost for item in self.items) 
+    
+    def print_cart(self):
         print("***********************CART***********************")
         print("Ordered Items:")
         for i, item in enumerate(self.items, start=1):
