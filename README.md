@@ -4,3 +4,4 @@
 
 - Sinh viên: Đinh Văn Đạt – MSSV 202416443
 - Chạy chương trình: `python main.py`
+- Yêu cầu: Python >= 3.10
