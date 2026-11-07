@@ -8,6 +8,10 @@
 - Cart.sort_by_title(), Cart.sort_by_cost()
 - search_by_category()
 
+## [1.0.1] - 2026-11-07
+### Fixed
+- search_by_title hoạt động và không phân biệt hoa thường (#25)
+
 
 ## [1.0.0] - 2026-11-07
 ### Added
